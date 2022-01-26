@@ -1,5 +1,8 @@
 _repo: A-Gringo-in-Manana-Land_67200
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67200-h/images/cover.jpg
 creator:
   author:
     agent_name: Foster, Harry L. (Harry La Tourette)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53961'
     url: http://www.gutenberg.org/2009/agents/53961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67200#A-Gringo-in-Manana-Land
 gutenberg_issued: '2022-01-19'
 identifiers:
   gutenberg: '67200'
